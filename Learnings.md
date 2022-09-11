@@ -68,5 +68,5 @@ https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
 ##CAREER ASPIRATIONS
 After course completion - I will become a full stack developer and aim to work in the field of Science and technology. During this course I wish to master the fundamentals, master the key languages and develop my skills.
 
-##AREAS OF DEVELOPMENT
+##AREAS OF DEVELOPMENT.
 I am still a little confused about terminal and push/pull requests, branching, comitting but will be able to grasp this as time goes by
