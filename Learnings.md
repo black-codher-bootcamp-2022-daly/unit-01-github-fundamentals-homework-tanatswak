@@ -20,7 +20,8 @@ The HTML document itself begins with <html> and ends with </html>.
 The visible part of the HTML document is between <body> and </body>.
 
 ##EXAMPLE CODE
-<!DOCTYPE html>
+
+##<!DOCTYPE html>
 <html>
 <body>
 
