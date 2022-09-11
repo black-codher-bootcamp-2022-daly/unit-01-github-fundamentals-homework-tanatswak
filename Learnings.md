@@ -21,7 +21,7 @@ The visible part of the HTML document is between <body> and </body>.
 
 ##EXAMPLE CODE
 
-##<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <body>
 
@@ -29,7 +29,7 @@ The visible part of the HTML document is between <body> and </body>.
 <p>My first paragraph.</p>
 
 </body>
-</html>
+</html> -->
 
 
 ##GITHUB 
