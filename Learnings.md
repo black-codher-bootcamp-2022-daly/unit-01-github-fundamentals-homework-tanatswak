@@ -1,7 +1,7 @@
 ## I have been introduced to the below key learnings
 
 
-SDLC FUNDAMENTALS
+##SDLC FUNDAMENTALS
 The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
 Requirement analysis
 Planning
@@ -10,16 +10,16 @@ Software development
 Testing
 Deployment
 
-TYPES OF PROJECT MANAGEMENT
+##TYPES OF PROJECT MANAGEMENT
 - Waterfall Project Management
 - Agile Project Management
 
-HTML BASICS
+##HTML BASICS
 All HTML documents must start with a document type declaration: <!DOCTYPE html>.
 The HTML document itself begins with <html> and ends with </html>.
 The visible part of the HTML document is between <body> and </body>.
 
-EXAMPLE CODE
+##EXAMPLE CODE
 <!DOCTYPE html>
 <html>
 <body>
@@ -31,7 +31,7 @@ EXAMPLE CODE
 </html>
 
 
-GITHUB 
+##GITHUB 
 Developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop. Here are some common commands for using Git:
 
 git init initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
@@ -52,13 +52,13 @@ git pull updates the local line of development with updates from its remote coun
 
 git push updates the remote repository with any commits made locally to a branch.
 
-COMMAND LINE
+##COMMAND LINE
 Some key learnings have included those in the link below:
 https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
 
 
-CAREER ASPIRATIONS
+##CAREER ASPIRATIONS
 After course completion - I will become a full stack developer and aim to work in the field of Science and technology. During this course I wish to master the fundamentals, master the key languages and develop my skills.
 
-AREAS OF DEVELOPMENT
+##AREAS OF DEVELOPMENT
 I am still a little confused about terminal and push/pull requests, branching, comitting but will be able to grasp this as time goes by
