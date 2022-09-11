@@ -10,6 +10,7 @@ Software development
 Testing
 Deployment
 
+![image](https://user-images.githubusercontent.com/92378906/189529273-86e22983-9123-4003-af01-862df34a110d.png)
 ##TYPES OF PROJECT MANAGEMENT
 - Waterfall Project Management
 - Agile Project Management
