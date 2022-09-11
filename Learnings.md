@@ -57,6 +57,9 @@ git pull updates the local line of development with updates from its remote coun
 
 git push updates the remote repository with any commits made locally to a branch.
 
+![image](https://user-images.githubusercontent.com/92378906/189529324-7ae7ddee-1c72-432f-aa97-b85274ee8cb2.png)
+
+
 ##COMMAND LINE
 Some key learnings have included those in the link below:
 https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
