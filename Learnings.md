@@ -13,6 +13,6 @@ TYPES OF PROJECT MANAGEMENT
 - Waterfall Project Management
 - Agile Project Management
 
-I have introduced to key HTML principles,GITHUB and Git fundamentals, push and pull requests
+I have introduced to key HTML principles,GITHUB and Git fundamentals, push and pull requests.
 
 I am still a little confused about terminal and push/pull requests, branching, comitting but will be able to grasp this as time goes by
